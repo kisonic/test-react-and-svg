@@ -1,0 +1,1280 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"on",
+				"onApprove"
+			],
+			[
+				"is",
+				"isValid"
+			],
+			[
+				"s",
+				"space-between"
+			],
+			[
+				"ren",
+				"renderView"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"app",
+				"APPROVED"
+			],
+			[
+				"th",
+				"th"
+			],
+			[
+				"su",
+				"supplier"
+			],
+			[
+				"po",
+				"getPositions"
+			],
+			[
+				"new",
+				"newState"
+			],
+			[
+				"c",
+				"className"
+			],
+			[
+				"re",
+				"render"
+			],
+			[
+				"com",
+				"companies"
+			],
+			[
+				"Com",
+				"CompanyId"
+			],
+			[
+				"g",
+				"guid.js"
+			],
+			[
+				"in",
+				"invoicePaymentTotalForm.jsx"
+			],
+			[
+				"p",
+				"padding-left"
+			],
+			[
+				"wsn",
+				"whs-nw\twhite-space: nowrap;"
+			],
+			[
+				"bsz",
+				"box-sizing"
+			],
+			[
+				"but",
+				"buttonText"
+			],
+			[
+				"On",
+				"onClose"
+			],
+			[
+				"pb",
+				"padding-bottom"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"compo",
+				"componentWillUnmount"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"m",
+				"margin-top"
+			],
+			[
+				"fs",
+				"font-size"
+			],
+			[
+				"con",
+				"counter"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"st",
+				"state"
+			],
+			[
+				"Ai",
+				"AirlineItemChangeSegment/"
+			],
+			[
+				"ai",
+				"ai-c\talign-items: center;"
+			],
+			[
+				"bgc",
+				"bgc-t\tbackground-color: transparent;"
+			],
+			[
+				"Car",
+				"CartItemAirlineRoute.js"
+			],
+			[
+				"bas",
+				"background-size"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"style",
+				"styleName"
+			],
+			[
+				"ch",
+				"checkbox"
+			],
+			[
+				"che",
+				"checked"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"t",
+				"trip"
+			],
+			[
+				"borrd",
+				"border-radius"
+			],
+			[
+				"tt",
+				"tt-c\ttext-transform: capitalize;"
+			],
+			[
+				"j",
+				"jc-sb\tjustify-content: space-between;"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"F",
+				"Fares"
+			],
+			[
+				"T",
+				"TotalPrice"
+			],
+			[
+				"ta",
+				"tariffOptions"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"product_",
+				"products_list.styl"
+			],
+			[
+				"f",
+				"fields"
+			],
+			[
+				"bo",
+				"border-bottom-color"
+			],
+			[
+				"ct",
+				"color_text_dark"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"co",
+				"color_accent"
+			],
+			[
+				"gu",
+				"gutter_big"
+			],
+			[
+				"bg",
+				"background-color"
+			],
+			[
+				"vi",
+				"_visible"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"b",
+				"background-size"
+			],
+			[
+				"has",
+				"hasClass"
+			],
+			[
+				"ab",
+				"absint"
+			],
+			[
+				"ng",
+				"ng-class"
+			],
+			[
+				"ca",
+				"color_accent"
+			],
+			[
+				"theme",
+				"theme_options"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"q",
+				"products--quick_view_only"
+			],
+			[
+				"z",
+				"z_base"
+			],
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"fu",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "App.js",
+			"settings":
+			{
+				"buffer_size": 231,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "App.css",
+			"settings":
+			{
+				"buffer_size": 43,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Channel"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"sublimelint",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"paci",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 529.0
+	},
+	"console":
+	{
+		"height": 311.0,
+		"history":
+		[
+			"ls",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/kisonic/Sites/test-react-and-svg",
+		"/Users/kisonic/Sites/test-react-and-svg/public",
+		"/Users/kisonic/Sites/test-react-and-svg/src"
+	],
+	"file_history":
+	[
+		"/Users/kisonic/Sites/test-react-and-svg/.eslintrc",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/req/classes/Model/Admin/Capital/Transfering.php",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/data/webpack/react-components/datepicker/index.jsx",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Modules/Finance/Admin/Templates/calendar/components/utils.js",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Modules/Suppliers/Admin/Templates/index.jsx",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Modules/Suppliers/Admin/Templates/list/index.jsx",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/req/classes/Model/Admin/User.php",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/req/classes/Model/Admin/Counteragent.php",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Classes/Auth/User.php",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/req/classes/Form/Account.php",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/req/classes/Form/Order.php",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Modules/Finance/Admin/Models/Debtor.php",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Modules/Finance/Admin/Models/SupplierBonus.php",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Modules/Finance/Admin/Templates/calendar/components/days.jsx",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Modules/Finance/Admin/Templates/calendar/styles/days.css",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Modules/Finance/Admin/Templates/calendar/components/transfers.jsx",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/data/webpack/react-components/datepicker/datePart.jsx",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Modules/Finance/Admin/Templates/calendar/components/expensesColumnHeader.jsx",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Modules/Finance/Admin/Templates/calendar/components/expenses.jsx",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Modules/Finance/Admin/Templates/calendar/components/expansesColumnHeader.jsx",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Modules/Finance/Admin/Templates/calendar/styles/index.css",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/data/webpack/package.json",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/data/webpack/webpack.vendors.config.js",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Modules/Finance/Admin/Templates/calendar/index.jsx",
+		"/Users/kisonic/Sites/vseinet2/vseinet.ru/sp/Modules/Finance/Admin/Templates/index.jsx",
+		"/Users/kisonic/Sites/vseinet2/vseinet.ru/sp/Modules/Finance/Admin/Templates/calendar/index.jsx",
+		"/Users/kisonic/Sites/vseinet.sublime-project",
+		"/Users/kisonic/Sites/vseinet2/.gitignore",
+		"/Users/kisonic/.gitignore_global",
+		"/Users/kisonic/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/kisonic/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/templates/1/admin/expense/index.tpl",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/templates/1/admin/expense/recurring.tpl",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/req/classes/Model/Admin/Expense.php",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/req/classes/Form/Admin/Expense/Filter.php",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/req/classes/Model/Admin/Balance.php",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/req/classes/Model.php",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Modules/Suppliers/Admin/Controllers/ItemController.php",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Modules/Suppliers/Admin/Models/Supplier.php",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Modules/Suppliers/Admin/Controllers/ListController.php",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Modules/Suppliers/Admin/Models/SuppliersList.php",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Modules/Finance/Admin/Controllers/CalendarController.php",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Modules/Finance/Admin/Models/Calendar.php",
+		"/Users/kisonic/.ssh/id_rsa.pub",
+		"/private/var/folders/c5/ny2ryw7d6xq8tx32zdlbzd500000gn/T/628d89fa-1485-49ea-b557-5f9548629095/home/test3/.ssh/config",
+		"/Users/kisonic/Sites/vi/.git/config",
+		"/Users/kisonic/.ssh/config",
+		"/private/var/folders/c5/ny2ryw7d6xq8tx32zdlbzd500000gn/T/628d89fa-1485-49ea-b557-5f9548629095/home/test3/.ssh/id_rsa",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Modules/Suppliers/Admin/Templates/item/index.tpl",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Modules/Suppliers/Admin/Templates/list/components/supplierForm.jsx",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Modules/Suppliers/Admin/Templates/list/components/suppliers.jsx",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/req/classes/Controller/Admin/Expense.php",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Modules/Finance/Finance.php",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/media/client.js",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/data/webpack/react-components/money/index.jsx",
+		"/private/var/folders/c5/ny2ryw7d6xq8tx32zdlbzd500000gn/T/628d89fa-1485-49ea-b557-5f9548629095/home/test3/www/vseinet.ru/data/webpack/node_modules/numeral/locales.js",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/data/webpack/react-components/price/index.jsx",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/data/webpack/react-components/tabs/index.jsx",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/media/admin.js",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/media/src/common/js/core.js",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Modules/Content/Controllers/ImageController.php",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Modules/Content/Forms/Image.php",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/data/webpack/react-components/ajax.jsx",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Modules/Suppliers/Admin/Templates/list/components/counteragent.jsx",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Modules/Suppliers/Admin/Templates/list/components/counteragentForm.jsx",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Modules/Finance/Admin/Templates/index.jsx",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Modules/Suppliers/Admin/Templates/list/components/managersWithWarehouses.jsx",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/req/sys/config.php",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/req/classes/Controller/Admin.php",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/req/classes/Controller.php",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/data/webpack/react-components/tabs/index.css",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/data/webpack/react-components/form/classes/Input.jsx",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Classes/Http/Params.php",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Classes/Base/Module.php",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/templates/admin/sales/warehouse_management.tpl",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/bootstrap.php",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Modules/Finance/Admin/Templates/capital.tpl",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Modules/Suppliers/Suppliers.php",
+		"/Users/kisonic/Sites/vseinet/.gitignore",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/data/webpack/webpack.config.js",
+		"/private/var/folders/c5/ny2ryw7d6xq8tx32zdlbzd500000gn/T/628d89fa-1485-49ea-b557-5f9548629095/home/test3/www/vseinet.ru/media/bundles/vendors-manifest.json",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Modules/Finance/Admin/Controllers/CapitalController.php",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Modules/Finance/Admin/Templates/index.tpl",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Modules/Suppliers/Admin/Templates/index.tpl",
+		"/Users/kisonic/Sites/vseinet/.editorconfig",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Modules/Finance/Admin/Templates/debtor_comments.tpl",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Modules/Content/Templates/product_general_edit.tpl",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/data/webpack/react-components/form/classes/Form.jsx",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/req/classes/FileAPI.php",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Modules/Content/Templates/product_details_edit.tpl",
+		"/Users/kisonic/Sites/vseinet/package.json",
+		"/private/var/folders/c5/ny2ryw7d6xq8tx32zdlbzd500000gn/T/628d89fa-1485-49ea-b557-5f9548629095/home/test3/www/vseinet.ru/data/webpack/package-lock.json",
+		"/private/var/folders/c5/ny2ryw7d6xq8tx32zdlbzd500000gn/T/628d89fa-1485-49ea-b557-5f9548629095/home/test3/www/vseinet.ru/data/webpack/node_modules/webpack/package.json",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/req/classes/Request.php",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/req/module/admin/logistics/WarehouseManagementPage.class.php",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Modules/Suppliers/Admin/Forms/Item/Edit.php",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Modules/Suppliers/Admin/Forms/Item/Add.php",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Modules/Suppliers/Admin/Templates/item/set_counteragent.tpl",
+		"/Users/kisonic/Sites/vseinet/.babelrc",
+		"/private/var/folders/c5/ny2ryw7d6xq8tx32zdlbzd500000gn/T/628d89fa-1485-49ea-b557-5f9548629095/home/test3/www/vseinet.ru/data/webpack/node_modules/babel-plugin-transform-class-properties/package.json",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/data/webpack/.babelrc",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/data/webpack/bundles.js",
+		"/private/var/folders/c5/ny2ryw7d6xq8tx32zdlbzd500000gn/T/628d89fa-1485-49ea-b557-5f9548629095/home/dev-server/package.json",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Modules/Client/Admin/Templates/legal/components/list.jsx",
+		"/private/var/folders/c5/ny2ryw7d6xq8tx32zdlbzd500000gn/T/628d89fa-1485-49ea-b557-5f9548629095/home/dev-server/node_modules/react-dropzone/.babelrc",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Modules/Suppliers/Admin/Templates/list/components/supplierFilesForm.jsx",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/data/webpack/react-components/form/classes/Checkbox.jsx",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Modules/Contents/Admin/Templates/template/components/detail-edit.jsx",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/data/webpack/react-components/form/classes/Repeat.jsx",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/data/webpack/react-components/form/classes/Error.jsx",
+		"/Users/kisonic/Sites/vseinet/sftp-config.json",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Classes/Base/Form.php",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Modules/Suppliers/Admin/Templates/list/components/supplierInfoForm.jsx",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Modules/Suppliers/Admin/Templates/list/components/supplierCabinetForm.jsx",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Modules/Suppliers/Admin/Templates/list/components/supplierContactsForm.jsx",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/data/webpack/react-components/form/classes/Select.jsx",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/data/webpack/react-components/form/classes/Textarea.jsx",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/data/webpack/react-components/form/classes/Label.jsx",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Modules/Client/Admin/Templates/legal/stores/client.jsx",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/data/webpack/react-components/popup/index.css",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/data/webpack/react-components/popup/index.jsx",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/data/webpack/react-components/form/index.jsx",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Classes/Base/Model.php",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Classes/Base/Controller.php",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/App/App.php",
+		"/private/etc/hosts",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/media/Nifty/ui-tabs-accordions.html",
+		"/Users/kisonic/Sites/vseinet/vseinet.ru/index.php"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/kisonic/Sites/vseinet/vseinet.ru/",
+			"/Users/kisonic/Sites/vseinet/vseinet.ru/req",
+			"/Users/kisonic/Sites/vseinet/vseinet.ru/sp",
+			"/Users/kisonic/Sites/vseinet/vseinet.ru",
+			"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Modules/Finance/Admin/Templates",
+			"/Users/kisonic/Sites/vseinet/vseinet.ru/",
+			"/Users/kisonic/Sites/vseinet/vseinet.ru/sp/Modules/Suppliers",
+			"/Users/kisonic/Sites/vseinet/vseinet.ru/",
+			"/Users/kisonic/Sites/vseinet/vseinet.ru/sp",
+			"/Users/kisonic/Sites/vseinet",
+			"/Users/kisonic/Sites/backoffice",
+			"/Users/kisonic/Sites/workplace",
+			"/Users/kisonic/Sites/backoffice",
+			"/Users/kisonic/Sites/workplace",
+			"/Users/kisonic/Sites/backoffice",
+			"/Users/kisonic/Sites/workplace",
+			"/Users/kisonic/Sites/backoffice",
+			"/Users/kisonic/Sites/workplace",
+			"/Users/kisonic/Sites/backoffice",
+			"/Users/kisonic/Sites/workplace",
+			"/Users/kisonic/Sites/backoffice",
+			"/Users/kisonic/Sites/workplace",
+			"/Users/kisonic/Sites/backoffice",
+			"/Users/kisonic/Sites/workplace",
+			"/Users/kisonic/Sites/backoffice",
+			"/Users/kisonic/Sites/workplace",
+			"/Users/kisonic/Sites/backoffice",
+			"/Users/kisonic/Sites/workplace,-*.json",
+			"/Users/kisonic/Sites/sw-ui",
+			"/Users/kisonic/Sites/workplace,-*.json",
+			"/Users/kisonic/Sites/workplace,-*.scss,-*.json",
+			"/Users/kisonic/Sites/workplace,-*.scss",
+			"/Users/kisonic/Sites/workplace",
+			"/Users/kisonic/Sites/backoffice",
+			"/Users/kisonic/Sites/workplace",
+			"/Users/kisonic/Sites/backoffice",
+			"/Users/kisonic/Sites/workplace",
+			"/Users/kisonic/Sites/backoffice",
+			"/Users/kisonic/Sites/workplace",
+			"/Users/kisonic/Sites/backoffice",
+			"/Users/kisonic/Sites/workplace",
+			"/Users/kisonic/Sites/backoffice",
+			"/Users/kisonic/Sites/workplace",
+			"/Users/kisonic/Sites/test-restful-api",
+			"/Users/kisonic/Sites/workplace",
+			"/Users/kisonic/Sites/test-restful-api",
+			"/Users/kisonic/Sites/workplace",
+			"/Users/kisonic/Sites/backoffice",
+			"/Users/kisonic/Sites/workplace",
+			"/Users/kisonic/Sites/backoffice",
+			"/Users/kisonic/Sites/workplace",
+			"/Users/kisonic/Sites/backoffice",
+			"/Users/kisonic/Sites/workplace",
+			"/Users/kisonic/Sites/workplace,*.js,*.jsx",
+			"/Users/kisonic/Sites/workplace",
+			"/Users/kisonic/Sites/backoffice",
+			"/Users/kisonic/Sites/workplace",
+			"/Users/kisonic/Sites/sw-ui",
+			"/Users/kisonic/Sites/workplace",
+			"/Users/kisonic/Sites/backoffice",
+			"/Users/kisonic/Sites/workplace",
+			"/Users/kisonic/Sites/backoffice",
+			"/Users/kisonic/Sites/workplace",
+			"/Users/kisonic/Sites/backoffice",
+			"/Users/kisonic/Sites/workplace",
+			"/Users/kisonic/Sites/workplace/config",
+			"/Users/kisonic/Sites/backoffice/config",
+			"/Users/kisonic/Sites/workplace/config",
+			"/Users/kisonic/Sites/backoffice",
+			"/Users/kisonic/Sites/workplace",
+			"/Users/kisonic/Sites/backoffice",
+			"/Users/kisonic/Sites/workplace",
+			"/Users/kisonic/Sites/backoffice",
+			"/Users/kisonic/Sites/workplace",
+			"/Users/kisonic/Sites/backoffice",
+			"/Users/kisonic/Sites/workplace",
+			"/Users/kisonic/Sites/backoffice",
+			"/Users/kisonic/Sites/workplace",
+			"/Users/kisonic/Sites/backoffice",
+			"/Users/kisonic/Sites/workplace",
+			"/Users/kisonic/Sites/backoffice",
+			"/Users/kisonic/Sites/workplace",
+			"/Users/kisonic/Sites/backoffice",
+			"/Users/kisonic/Sites/workplace",
+			"/Users/kisonic/Sites/workplace/scss",
+			"/Users/kisonic/Sites/mint/wp-content/themes/mint,*.php,*.styl,*.coffee",
+			"/Users/kisonic/Sites/mint/wp-content/themes/mint,*.styl",
+			"/Users/kisonic/Sites/mint/wp-content/themes/mint,*.php,*.styl,*.coffee",
+			"/Users/kisonic/Sites/mint/wp-content/themes/mint,*.php",
+			"/Users/kisonic/Sites/mint/wp-content/themes/mint,*.styl",
+			"/Users/kisonic/Sites/mint/wp-content/themes/mint,*.php",
+			"/Users/kisonic/Sites/mint/wp-content/themes/mint,*.styl",
+			"/Users/kisonic/Sites/mint/wp-content/themes/mint,-*.css,-*.sql,-*.js,-*.map,-*.less,-*.scss",
+			"/Users/kisonic/Sites/mint/wp-content/themes/mint,*.php",
+			"/Users/kisonic/Sites/mint/wp-content/themes/mint/woocommerce",
+			"/Users/kisonic/Sites/mint/wp-content/themes/mint,*.php",
+			"/Users/kisonic/Sites/mint/wp-content/themes/mint,-*.css,-*.sql,-*.js,-*.map,-*.less,-*.scss",
+			"/Users/kisonic/Sites/mint/wp-content/themes/mint,*.php",
+			"/Users/kisonic/Sites/poller",
+			"/Users/kisonic/Sites/mint/wp-content/themes/mint,-*.css,-*.sql,-*.js,-*.map,-*.less,-*.scss",
+			"/Users/kisonic/Sites/test-for-funcorp",
+			"/Users/kisonic/Sites/react-essential-course-master/06-real-world/00-tasks-app",
+			"/Users/kisonic/Sites/poller-master",
+			"/Users/kisonic/Sites/react-essential-course-master/06-real-world/00-tasks-app/src",
+			"/Users/kisonic/Sites/mint/wp-content/themes/mint,*.php",
+			"/Users/kisonic/Sites/mint/wp-content/themes/mint,-*.css,-*.sql,-*.js,-*.map,-*.less,-*.scss",
+			"/Users/kisonic/Sites/mint/wp-content/plugins/air_addons",
+			"/Users/kisonic/Sites/mint/wp-content/themes/mint,-*.css,-*.sql,-*.js,-*.map,-*.less,-*.scss",
+			"/Users/kisonic/Sites/melinda/wp-content/themes/melinda",
+			"/Users/kisonic/Sites/mint/wp-content/themes/mint,-*.css,-*.sql,-*.js,-*.map,-*.less,-*.scss",
+			"/Users/kisonic/Sites/mint/wp-content/themes/mint,-*.css,-*.sql,-*.js,-*.map,-*.less",
+			"/Users/kisonic/Sites/mint/wp-content/themes/mint,-*.css,-*.sql,-*.js,-*.map",
+			"/Users/kisonic/Sites/mint/wp-content/themes/mint,-*.css,-*.sql,-*.js,-*.map,-*.svg",
+			"/Users/kisonic/Sites/mint/wp-content/themes/mint,-*.css,-*.sql,-*.js,-*.map",
+			"/Users/kisonic/Sites/mint/wp-content/themes/mint,-*.css,-*.sql,-*.js",
+			"/Users/kisonic/Sites/mint/wp-content/themes/mint,-*.css,-*.sql",
+			"/Users/kisonic/Sites/trendy",
+			"/Users/kisonic/Sites/mint/wp-content/themes/mint,-*.css,-*.sql",
+			"/Users/kisonic/Sites/mint/wp-content/themes/mint",
+			"/Users/kisonic/Sites/mint/wp-content/themes/mint,*.php",
+			"/Users/kisonic/Sites/mint/wp-content/themes/mint,-*.sql,-*.svg",
+			"/Users/kisonic/Sites/mint/wp-content/themes/mint,-*.sql",
+			"/Users/kisonic/Sites/mint/wp-content/themes/mint",
+			"/Users/kisonic/Sites/test-angular/node_modules/bootstrap-styl/bootstrap",
+			"/Users/kisonic/Sites/orchard/wp-content/themes/orchard",
+			"/Users/kisonic/Sites/orchard/wp-content/themes/orchard/_src/styles",
+			"/Users/kisonic/Sites/orchard/wp-content/themes/orchard",
+			"/Users/kisonic/Sites/orchard/wp-content/themes/orchard/classes/options"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"_",
+			"transfers",
+			"Transfers",
+			"th",
+			"toggleExpense",
+			"stopPropagation",
+			"toggleCreditStatus",
+			"Id",
+			"id",
+			"toggleCreditStatus",
+			"ToggleCreditStatus",
+			"toggleCreditStatus",
+			"onToggleCreditStatus",
+			"toggleCreditStatus",
+			"ToggleCreditStatus",
+			"toggleCreditStatus",
+			"ToggleCreditStatus",
+			"toggleCreditStatus",
+			"creditExpense",
+			"onToggleCredit",
+			"onCredit",
+			"toggleExpense",
+			"EXPENSE_APPROVING",
+			"$type",
+			"type",
+			"$type",
+			"type",
+			"getSubtypeById",
+			"getType",
+			"creditBtn",
+			"toggleCreditStatus",
+			"handleApprove",
+			"toggleCreditStatus",
+			"_",
+			"category_id",
+			"debtorId",
+			"debtor_id",
+			"in_credit",
+			"debtor_id",
+			"toggleCreditStatus",
+			"toggleApprovalStatus",
+			"toggleCreditStatus",
+			"without_balance",
+			"withoutBalance",
+			"without_balance",
+			"toggleApprovalStatus",
+			"to_source_id",
+			"insert",
+			"Balance_Operation",
+			"getFirstRecord",
+			"getSubtypeById",
+			"settleDepartures",
+			"getType",
+			"getSubtypeById",
+			"getType",
+			"getSubtypeById",
+			"getPaymentSources",
+			"getSubtypes",
+			"getSubtypeById",
+			"getTypes",
+			"getType",
+			"Model::admin('Expense')",
+			"Balance_Operation",
+			"model",
+			"completeExpense",
+			"getExpenseById",
+			"user_payment_access",
+			"is_user_can_decline_expense",
+			"is_user_can_approve_expense",
+			"is_user_can_edit_finance_operating",
+			"Arr::",
+			"Model::admin('Expense')->update(",
+			", ",
+			"create",
+			"Model::factory('User')->get()['employee_data']['source_id']",
+			"is_user_can_edit_finance_operating",
+			"getExpenseById",
+			"balanceId",
+			"isAuto",
+			"sellerId",
+			"isAuto",
+			", ",
+			"$access",
+			"source_id",
+			"payment_type_id",
+			"completeExpense",
+			"onComplete",
+			"completeExpense",
+			"handleComplete",
+			"declineExpenses",
+			"approveExpenses",
+			"$this->request->getPost('id')",
+			"source",
+			"paymentTypeId",
+			"$this->request->getPost('id')",
+			"source",
+			"accomplish",
+			"$access",
+			"user_payment_access",
+			"\n                        user.paymentAccess &&",
+			"paymentTypeId",
+			"accomplish",
+			"handleApprove",
+			"\"",
+			"balance_id",
+			"sourceId",
+			"without_balance",
+			"$user.id",
+			"payment_access",
+			"Model::factory('User')->getByAttributes",
+			"['payment_access']",
+			"Model::factory('User')->get",
+			"Model::factory('U",
+			"\\Model::factory('U",
+			"\\Model::factory('",
+			"\\Model::factory('User')",
+			"toggleApprovalStatus",
+			"$amount",
+			"$supplierId",
+			"DebtorComment",
+			"-$amount",
+			"supplierId",
+			"handleApprove",
+			"\n                        data-id={ id }",
+			"toggleApprovalStatus",
+			"u_creator",
+			"Model",
+			"update"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"xpense",
+			"",
+			"// eslint-disable-next-line\nimport renderComponents from './components.jsx';",
+			"",
+			"{ allowMultiple: true });",
+			",",
+			"NotificationService",
+			",",
+			"\\,",
+			"Fare",
+			"_inline",
+			"_expanded",
+			"desc",
+			"",
+			"js-flexslider",
+			"js-hide-popups",
+			"js-toggle-next",
+			"js-popup",
+			"scroll-disable",
+			"if (!defined('YITH_WCWL')) {",
+			"exit;",
+			"if (!defined('ABSPATH')) {",
+			"if(is_null(self::$_instance)) {",
+			"if( is_null( self::$_instance ) ) {",
+			"time opacity",
+			"js-scroll-nav",
+			"text-sep",
+			"'",
+			"escaped_content",
+			"orchard_rectangle_large__crop",
+			"orchard_rectangle_medium__crop",
+			"orchard_square_large__crop",
+			"orchard_square_medium__crop",
+			"OrchardPostFormats::link()",
+			"OrchardPostFormats::audio()",
+			"OrchardPostFormats::video()",
+			"OrchardPostFormats::gallery()",
+			"OrchardPostFormats::esc()",
+			"OrchardPostFormats::esc(",
+			"OrchardPostFormats::audio(",
+			"OrchardPostFormats::video(",
+			"OrchardPostFormats::image(",
+			"OrchardPostFormats::link(",
+			"OrchardPostFormats::gallery(",
+			"OrchardModules::share_icons",
+			"OrchardModules::share_buttons",
+			"OrchardHelpers::post_navigation(",
+			"OrchardHelpers::posts_navigation(",
+			"OrchardHelpers::get_dynamic_area(",
+			"OrchardHelpers::get_responsive_column_classes(",
+			"OrchardHelpers::get_responsive_column_classes()",
+			"OrchardHelpers::get_sidebar_location()",
+			"OrchardHelpers::is_title_wrapper()",
+			"OrchardHelpers::is_negative_header()",
+			"OrchardHelpers::get_logo()",
+			"OrchardOptions::get_metaboxes_option(",
+			"OrchardOptions::get(",
+			"self::$social_icons",
+			"self::social_icons",
+			"$theme_options",
+			"OrchardTheme::categorized_blog()",
+			"OrchardTheme::search_meta(",
+			"OrchardTheme::post_navigation(",
+			"OrchardTheme::posts_navigation(",
+			"OrchardTheme::get_dynamic_area(",
+			"OrchardTheme::get_responsive_column_classes(",
+			"OrchardTheme::get_responsive_column_classes()",
+			"OrchardTheme::get_sidebar_location()",
+			"OrchardTheme::is_title_wrapper()",
+			"OrchardTheme::is_negative_header()",
+			"OrchardTheme::get_logo()",
+			"OrchardTheme::get_post_meta(",
+			"OrchardTheme::get_option(",
+			"OrchardTheme::get_social_icons()",
+			"OrchardTheme::get_social_links()",
+			"OrchardTheme::get_image_size_names()",
+			"OrchardTheme::get_image_sizes(",
+			"OrchardShop::is_woocommerce()",
+			"OrchardShop::get_category_image_src()",
+			"OrchardShop::is_category()",
+			"OrchardShop::is_checkout()",
+			"OrchardShop::is_cart()",
+			"OrchardShop::is_shop()",
+			"utf8",
+			"utf8_general_ci",
+			"pirog77.ru",
+			"utf8",
+			"utf8_general_ci",
+			"pirog77msk.ru",
+			"cw69062-wordpress.tw1.ru",
+			"utf8",
+			"utf8_general_ci",
+			"http://cw69062-wordpress.tw1.ru",
+			"cw69062-wordpress.tw1.ru",
+			"$headers = 'From: postmaster@eventdecor.moscow';",
+			" esc_html__('Compact', 'melinda'),",
+			" esc_html__('Normal', 'melinda'),",
+			" esc_html__('Expanded', 'melinda'),",
+			" esc_html__('Default', 'melinda'),",
+			"esc_html__('Off', 'melinda'),",
+			"esc_html__('On', 'melinda'),",
+			"esc_html__("
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 231,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								166,
+								166
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										201,
+										202
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										137,
+										138
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Oceanic Next (SL).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "App.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 43,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								24,
+								24
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										41,
+										42
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										5,
+										6
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Oceanic Next (SL).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 202.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 86.0
+	},
+	"pinned_build_system": "",
+	"project": "test.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Sites/smartway.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 179.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

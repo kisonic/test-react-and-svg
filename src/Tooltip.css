@@ -1,0 +1,31 @@
+.tooltip {
+  margin: 5px;
+  padding: 9px 10px;
+  font-size: 13px;
+  line-height: 1;
+  color: #8d949d;
+  background-color: #ffffff;
+  border-radius: 5px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.2);
+}
+
+.tooltip__date {
+  margin-bottom: 5px;
+}
+
+.tooltip__rate {
+  margin-right: 10px;
+  color: #000000;
+}
+
+.tooltip__green {
+  color: green;
+}
+
+.tooltip__red {
+  color: red;
+}
+
+.tooltip__small {
+  font-size: .6em;
+}

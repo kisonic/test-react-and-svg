@@ -1,0 +1,19 @@
+.chart {
+  background-color: #F5F6F7;
+}
+
+.chart__x-title,
+.chart__y-title {
+  font-size: 11px;
+  text-transform: capitalize;
+  fill: #8D949D;
+}
+
+.chart__x-section {
+  fill-opacity: 0;
+}
+
+.chart__year {
+  font-size: 13px;
+  fill: #8D949D;
+}
